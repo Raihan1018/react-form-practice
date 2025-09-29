@@ -5,7 +5,7 @@ import ControlledField from './components/ControlledField'
 
 const App = () => {
   return (
-    <div className='flex flex-col min-h-screen justify-center items-center'>
+    <div className='p-16'>
       {/* <SimpleForm/> */}
       {/* <FormAction/> */}
       <ControlledField/>
